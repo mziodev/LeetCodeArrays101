@@ -8,15 +8,8 @@
 
 /* Begin PBXFileReference section */
 		08AC90A12D09E1BA0058280C /* LeetCodeArrays101.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCodeArrays101.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		08AC90B22D09E2060058280C /* 485_MaxConsecutiveOnes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 485_MaxConsecutiveOnes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		08AC90A32D09E1BA0058280C /* LeetCodeArrays101 */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = LeetCodeArrays101;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		08AC909E2D09E1BA0058280C /* Frameworks */ = {
@@ -32,7 +25,7 @@
 		08AC90982D09E1BA0058280C = {
 			isa = PBXGroup;
 			children = (
-				08AC90A32D09E1BA0058280C /* LeetCodeArrays101 */,
+				08AC90B22D09E2060058280C /* 485_MaxConsecutiveOnes.playground */,
 				08AC90A22D09E1BA0058280C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -59,9 +52,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				08AC90A32D09E1BA0058280C /* LeetCodeArrays101 */,
 			);
 			name = LeetCodeArrays101;
 			packageProductDependencies = (
