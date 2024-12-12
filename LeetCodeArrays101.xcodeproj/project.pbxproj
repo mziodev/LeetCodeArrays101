@@ -10,6 +10,7 @@
 		08AC90A12D09E1BA0058280C /* LeetCodeArrays101.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCodeArrays101.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		08AC90B22D09E2060058280C /* 485_MaxConsecutiveOnes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 485_MaxConsecutiveOnes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		08AC90B32D09E5B40058280C /* 1295_FindNumbersWithEvenNumberOfDigits.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 1295_FindNumbersWithEvenNumberOfDigits.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		08E592BE2D0B32360053B3E5 /* 977_SquaresOfASortedArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 977_SquaresOfASortedArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,8 +27,9 @@
 		08AC90982D09E1BA0058280C = {
 			isa = PBXGroup;
 			children = (
-				08AC90B32D09E5B40058280C /* 1295_FindNumbersWithEvenNumberOfDigits.playground */,
 				08AC90B22D09E2060058280C /* 485_MaxConsecutiveOnes.playground */,
+				08E592BE2D0B32360053B3E5 /* 977_SquaresOfASortedArray.playground */,
+				08AC90B32D09E5B40058280C /* 1295_FindNumbersWithEvenNumberOfDigits.playground */,
 				08AC90A22D09E1BA0058280C /* Products */,
 			);
 			sourceTree = "<group>";

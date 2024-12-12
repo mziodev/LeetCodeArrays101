@@ -1,6 +1,9 @@
 import Foundation
 
 class Solution {
+    
+    // time O(n·log m)
+    // space O(1)
     static func findNumbers(_ nums: [Int]) -> Int {
         var count = 0
         
